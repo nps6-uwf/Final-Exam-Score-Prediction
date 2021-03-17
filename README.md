@@ -3,6 +3,10 @@ Using multivariate regression to predict M52 student final exams.
 
 My 17 year old (M52) high school computer science students are assesed with a midterm and 4 formative assignments.  I use the average of the 4 formative scores and the midterm grade for each student in conjunction with multivariate regression in an attempt to predict the students final exam grade.
 
+Let x1 = midterm score, x2 = average formative score, then the multivariate equation takes the form:
+
+## y(x1, x2) = B0 + B1*x1 + B2*x2
+
 The csv data format:
     
 student #, id, ..., name, stem, midterm, midterm re-test, formative 1 (f1), f2, f3, f4, f5, formative (total), behavior, final, total, grade
