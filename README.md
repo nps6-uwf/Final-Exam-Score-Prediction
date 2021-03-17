@@ -5,6 +5,6 @@ My 17 year old (M52) high school computer science students are assesed with a mi
 
 The csv data format:
     
-    student #, id, ..., name, stem, midterm, midterm re-test, formative 1 (f1), f2, f3, f4, f5, formative (total), behavior, final, total, grade
+student #, id, ..., name, stem, midterm, midterm re-test, formative 1 (f1), f2, f3, f4, f5, formative (total), behavior, final, total, grade
 
 <img src="https://github.com/nps6-uwf/Final-Exam-Score-Prediction/blob/main/assets/fig_1.png?raw=true"></img>
